@@ -1,4 +1,4 @@
-Aplikasi Absensi PT. Munjtul Tjaya
+# Aplikasi Absensi PT. Munjtul Tjaya
 
 Apliaksi ini dibuat untuk melatih skill dalam pembuatan Web App.
 Aplikasi ini berfungsi untuk karyawan melakukan absensi dan juga mengajukan cuti.
