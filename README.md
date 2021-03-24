@@ -4,7 +4,7 @@ Apliaksi ini dibuat untuk melatih skill dalam pembuatan Web App.
 Aplikasi ini berfungsi untuk karyawan melakukan absensi dan juga mengajukan cuti.
 APlikasi ini juga berfungsi untuk administrator untuk mengatur data dan juga konfirmasi cuti dari karyawan.
 
-##Spesifikasi Aplikasi:
+## Spesifikasi Aplikasi:
 - PHP Versi 7.4.1.
 - Framework Codeigniter Versi 4.0.4
 - Bootsrap SB Admin 2 Versi 4.1.3.
